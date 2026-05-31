@@ -1,0 +1,19 @@
+{
+  "system_identifier": "tiktok_rocc_pipeline_configuration",
+  "monitoring_parameters": {
+    "telemetry_health_index": {
+      "nominal_target": 1.00,
+      "warning_threshold": 0.90,
+      "critical_incident_threshold": 0.75
+    },
+    "false_positive_rate": {
+      "operational_ceiling": 0.05,
+      "escalation_threshold": 0.15,
+      "critical_breach_threshold": 0.25
+    },
+    "disparate_impact_ratio": {
+      "regulatory_floor": 0.80,
+      "compliance_buffer_limit": 0.82
+    }
+  }
+}
