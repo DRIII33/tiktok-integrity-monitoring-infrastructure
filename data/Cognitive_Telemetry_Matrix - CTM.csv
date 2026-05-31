@@ -1,0 +1,5 @@
+Evasion Taxonomy,Technical Fingerprint,Mapped Threat & Policy Breach,NIST Risk Profile
+Linguistic Algospeak,"Contextual substitutions (e.g., ""un-alive"", ""d5gs"", ""ph@rmacy"") and phoneme alterations.",Intentional circumvention of dangerous goods policies; distribution of illicit materials.,High: Exploits regex vulnerabilities to target vulnerable users.
+Structural Invisible Unicode,"Zero-Width Spaces (\u200b), Soft Hyphens (\u00ad), or Right-to-Left overrides (\u202e).",Algorithmic blindness; forcing string fragmentation to bypass keyword blacklists.,Critical: Completely undermines structural boundary defenses.
+Visual Homoglyph Swaps,"Non-Latin alphabet replacements (e.g., Cyrillic а \u0430, Greek Alpha \u03b1).",Brand counterfeiting and coordinated platform phishing campaigns.,High: Indistinguishable to human reviewers without byte-level inspection.
+Multi-Modal Deepfake Ring,"Highly compressed video frames, inconsistent audio metadata, anomalous face-anchor deltas.",Coordinated scam operations and synthetic identity theft campaigns on TikTok Shop.,Critical: High financial and reputational harm to users and merchants.

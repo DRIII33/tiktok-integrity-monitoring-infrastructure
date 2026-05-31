@@ -1,0 +1,21 @@
+ticket_id,advertiser_id,campaign_id,click_to_conversion_delta_t_sec,unicode_anomalies_count,click_spam_flag,visual_integrity_status,raw_ad_text,clean_ad_text
+f08bb4c2-940b-4d7d-a66f-67cbd96d7ea3,ADV-685498,CMP-690879,2.09,26,True,STANDARD_ASSET_VERIFIED,Wh@tsapp gr0up ph@rmacy tracking d5gs now,whatsapp group pharmacy track dsg now
+5e048bb5-7433-4cc6-be0e-92f860879cbd,ADV-357853,CMP-738102,2.25,10,True,STANDARD_ASSET_VERIFIED,Wh@tsapp gr0up ph@rmacy tracking d5gs now,whatsapp group pharmacy track dsg now
+f5e5937f-26c9-4eea-b581-b919c69ea1f3,ADV-242321,CMP-610370,0.1,17,True,HIGH_PROBABILITY_DEEPFAKE_RING,Wh@tsapp gr0up ph@rmacy tracking d5gs now,whatsapp group pharmacy track dsg now
+5a168879-01b1-4ee3-a9ee-3650449c0cc5,ADV-632587,CMP-882132,1.58,10,True,HIGH_PROBABILITY_DEEPFAKE_RING,Wh@tsapp gr0up ph@rmacy tracking d5gs now,whatsapp group pharmacy track dsg now
+722f4751-c7cd-49f2-8d31-c43320ed3644,ADV-105948,CMP-553387,0.6,28,True,STANDARD_ASSET_VERIFIED,Wh@tsapp gr0up ph@rmacy tracking d5gs now,whatsapp group pharmacy track dsg now
+fd809040-6f73-454e-8a1c-b4305bfbc7e9,ADV-252199,CMP-672389,4.99,12,True,HIGH_PROBABILITY_DEEPFAKE_RING,Wh@tsapp gr0up ph@rmacy tracking d5gs now,whatsapp group pharmacy track dsg now
+606b55d0-d0ec-4ee1-abdc-28b616838324,ADV-722193,CMP-862716,10.34,33,False,STANDARD_ASSET_VERIFIED,Wh@tsapp gr0up ph@rmacy tracking d5gs now,whatsapp group pharmacy track dsg now
+b976a341-98aa-4b8f-9135-8c4a0b446482,ADV-180472,CMP-502237,1.38,27,True,STANDARD_ASSET_VERIFIED,Wh@tsapp gr0up ph@rmacy tracking d5gs now,whatsapp group pharmacy track dsg now
+d9080440-944f-45f6-b588-d3b314bd0837,ADV-730421,CMP-835740,11.32,20,False,HIGH_PROBABILITY_DEEPFAKE_RING,Wh@tsapp gr0up ph@rmacy tracking d5gs now,whatsapp group pharmacy track dsg now
+bf96deb2-5d73-46c5-8779-b6214b8f1ddb,ADV-520415,CMP-801041,7.89,24,False,HIGH_PROBABILITY_DEEPFAKE_RING,Wh@tsapp gr0up ph@rmacy tracking d5gs now,whatsapp group pharmacy track dsg now
+5e6c97ad-4599-47af-a6ce-381fc8be5936,ADV-384254,CMP-702462,4.32,11,True,STANDARD_ASSET_VERIFIED,Wh@tsapp gr0up ph@rmacy tracking d5gs now,whatsapp group pharmacy track dsg now
+7b25c38f-3e71-4134-a8ab-1898cedb0d2a,ADV-505042,CMP-809136,1.6,17,True,STANDARD_ASSET_VERIFIED,Wh@tsapp gr0up ph@rmacy tracking d5gs now,whatsapp group pharmacy track dsg now
+7ed04cf9-7929-4f81-a7b4-c1fe5786c322,ADV-465642,CMP-578691,9.26,20,False,HIGH_PROBABILITY_DEEPFAKE_RING,Wh@tsapp gr0up ph@rmacy tracking d5gs now,whatsapp group pharmacy track dsg now
+f17dbdd0-695f-4d0e-9af1-2f528a8096e2,ADV-821354,CMP-511139,0.1,29,True,STANDARD_ASSET_VERIFIED,Wh@tsapp gr0up ph@rmacy tracking d5gs now,whatsapp group pharmacy track dsg now
+f68c10a5-ebd5-4f0d-bf2d-eaad96a07245,ADV-966023,CMP-718489,5.47,17,False,STANDARD_ASSET_VERIFIED,Wh@tsapp gr0up ph@rmacy tracking d5gs now,whatsapp group pharmacy track dsg now
+a4a53b96-8bd6-41c4-8cbe-4d6b4336c1c5,ADV-286749,CMP-802992,2.15,8,True,STANDARD_ASSET_VERIFIED,Wh@tsapp gr0up ph@rmacy tracking d5gs now,whatsapp group pharmacy track dsg now
+9c8f63b3-7b22-48b4-b804-2d06d5b68aac,ADV-532993,CMP-634042,2.23,10,True,STANDARD_ASSET_VERIFIED,Wh@tsapp gr0up ph@rmacy tracking d5gs now,whatsapp group pharmacy track dsg now
+b6da6fbf-939e-4359-b9c0-656b6453800e,ADV-595252,CMP-611143,0.28,21,True,STANDARD_ASSET_VERIFIED,Wh@tsapp gr0up ph@rmacy tracking d5gs now,whatsapp group pharmacy track dsg now
+a1fc276a-1c78-4c29-bc87-7f032c671dd4,ADV-116418,CMP-627254,0.56,31,True,STANDARD_ASSET_VERIFIED,Wh@tsapp gr0up ph@rmacy tracking d5gs now,whatsapp group pharmacy track dsg now
+b7ebaa90-2145-4bfe-904a-e02c1a37b8a3,ADV-553485,CMP-767352,1.06,26,True,STANDARD_ASSET_VERIFIED,Wh@tsapp gr0up ph@rmacy tracking d5gs now,whatsapp group pharmacy track dsg now
