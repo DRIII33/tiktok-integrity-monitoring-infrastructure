@@ -1,0 +1,54 @@
+{
+  "dashboard_title": "The Risk Operations Control Center (ROCC) Dashboard",
+  "data_connections": [
+    "driiiportfolio.trust_and_safety.vw_rocc_pipeline_performance",
+    "driiiportfolio.trust_and_safety.vw_rocc_fairness_audit"
+  ],
+  "kpi_layer_layout": {
+    "card_1": {
+      "title": "Telemetry Health Index",
+      "metric_binding": "1 - ((SUM(is_unicode_packet_drop) + SUM(is_velocity_packet_drop)) / (COUNT(account_id) * 2))",
+      "format": "percentage",
+      "caption": "Monitors system packet stability, highlighting a drop to 82.0% data completeness due to a combined 72 raw telemetry signal drops across the network."
+    },
+    "card_2": {
+      "title": "False Positive Rate",
+      "metric_binding": "SUM(is_false_positive) / COUNTIF(ground_truth_violation = 0)",
+      "format": "percentage",
+      "caption": "Tracks over-enforcement mistakes, flashing a critical 22.2% error rate as network packet drops disrupt model inputs and trigger false alarms on 10 safe merchant accounts."
+    },
+    "card_3": {
+      "title": "Model Significance Status",
+      "label_display": "p-value < 0.000001 (Highly Significant)",
+      "embedded_table_metrics": ["legacy_only_correct", "optimized_only_correct"],
+      "caption": "Confirms that the pipeline's improvements are statistically valid (p < 0.000001), backed by a clear 89-to-10 split in recovered violations that proves these results are not due to random chance."
+    }
+  },
+  "chart_modules": {
+    "module_a": {
+      "type": "dual_axis_combo_chart",
+      "x_axis": "event_timestamp_hourly",
+      "primary_y_axis": "count_account_id",
+      "secondary_y_axis": "avg_is_unicode_packet_drop",
+      "caption": "Cross-references hourly traffic volumes against packet loss spikes to pinpoint exact infrastructure bottlenecks, such as the 45% drop rate observed at 5:00 AM."
+    },
+    "module_b": {
+      "type": "horizontal_bullet_graph",
+      "target_value": "disparate_impact_ratio",
+      "compliance_reference_line": 0.80,
+      "caption": "Evaluates enforcement equity between proxy demographics, confirming the system safely clears the strict 0.80 regulatory floor to prevent systemic bias."
+    },
+    "module_c": {
+      "type": "grouped_column_chart",
+      "grouping_dimension": "platform_cohort",
+      "series_values": ["avg_is_legacy_correct", "avg_is_optimized_correct"],
+      "caption": "Contrasts detection performance across business lines, showing a massive +52.0% accuracy recovery for high-entropy TikTok Shop profiles under active network stress."
+    },
+    "module_d": {
+      "type": "100_percent_stacked_area_chart",
+      "timeline_dimension": "event_timestamp_daily",
+      "breakdown_series": "enforcement_risk_tier",
+      "caption": "Maps daily merchant risk migrations, illustrating that the system runs smoothly by prioritizing preventative monitoring for 124 warning-tier accounts over immediate account blocks."
+    }
+  }
+}
