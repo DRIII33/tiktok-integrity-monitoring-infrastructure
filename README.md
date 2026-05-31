@@ -1,4 +1,3 @@
-````markdown
 # Production-Grade Portfolio Manifest: Global Operations Risk Analysis Workflow
 
 **Target Organization:** TikTok Global Operations / Trust & Safety Engineering
