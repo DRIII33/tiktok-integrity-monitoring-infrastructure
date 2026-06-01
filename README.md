@@ -1,8 +1,13 @@
 # Production-Grade Portfolio Manifest: Global Operations Risk Analysis Workflow
 
-**Target Organization:** TikTok Global Operations / Trust & Safety Engineering
-**Role Context:** Risk Analyst III (Job Code: A140141) — TT Commerce & Global Services LLC  
+**Target Organization:** TikTok Global Operations
+
+**Role Context:** Risk Analyst (Job Code: A140141) — TT Commerce & Global Services LLC
+
+**Risk Analyst:** Daniel Rodriguez III
+
 **System Integrity Level:** Enterprise Production (v2026.05.31)  
+
 **Verification Status:** Data-Grounded, Fully Functional, and Non-Redacted
 
 ---
