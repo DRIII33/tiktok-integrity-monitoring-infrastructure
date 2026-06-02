@@ -1,6 +1,6 @@
 # DANIEL RODRIGUEZ III
 
-Beverly Hills, TX | (512) 253-3350 | DRIIIGistus@gmail.com |[LinkedIn Profile]([https://linkedin.com](https://www.linkedin.com/feed/update/urn:li:activity:7467055771248418816/)
+Beverly Hills, TX | (512) 253-3350 | DRIIIGistus@gmail.com |[LinkedIn Profile](https://www.linkedin.com/feed/update/urn:li:activity:7467055771248418816/)
 
 May 10, 2026
 
