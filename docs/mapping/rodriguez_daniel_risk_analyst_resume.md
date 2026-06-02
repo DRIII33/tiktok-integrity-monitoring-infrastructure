@@ -97,7 +97,7 @@ American Intercontinental University – Weston, FL | 2009 – 2012
 
 ## CERTIFICATIONS
 
-- Google Data Analytics Professional Certificate
-- Google Advanced Data Analytics Professional Certificate
-- IBM Data Science Professional Certificate
+- [Google Data Analytics Professional Certificate](https://coursera.org/share/8e3e5c4bb03bf6d9fba12af8a1442908)
+- [Google Advanced Data Analytics Professional Certificate](https://coursera.org/share/33eed2d7e8dae4c301a67270e4375a15)
+- [IBM Data Science Professional Certificate](https://coursera.org/share/d30fde450364c0de3c7d5b1b8ba36e26)
 - YouTube Music Certification (Rights Management)
