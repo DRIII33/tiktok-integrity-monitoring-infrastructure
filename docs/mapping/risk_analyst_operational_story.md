@@ -12,7 +12,7 @@
 
 ### 1.1 Ingestion Dynamics
 
-The operational narrative of this project begins at the ingestion layer of TikTok Commerce and Global Services LLC (`TT Commerce & Global Services LLC`). As a Risk Analyst III, my first objective was to build a highly scalable, multi-cohort data extraction architecture capable of handling high-velocity, real-time payload streams from two distinctly separate commercial business pipelines:
+The operational narrative of this project begins at the ingestion layer of TikTok Commerce and Global Services LLC (`TT Commerce & Global Services LLC`). As a Risk Analyst, my first objective was to build a highly scalable, multi-cohort data extraction architecture capable of handling high-velocity, real-time payload streams from two distinctly separate commercial business pipelines:
 
 * **TikTok Shop (E-Commerce Cohort):** High-entropy, transaction-dense text streams consisting of merchant product listings, live-stream pin cards, and store description metadata.
 * **TikTok for Business / TT4B (Lead Generation Cohort):** Structured business-to-business (B2B) advertisements, lead capture forms, and corporate marketing campaign copy.
